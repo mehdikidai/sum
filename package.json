@@ -1,6 +1,6 @@
 {
   "name": "mk_sum",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "sum",
   "main": "index.js",
   "types": "index.d.ts",
